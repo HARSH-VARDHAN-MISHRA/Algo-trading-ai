@@ -1522,6 +1522,10 @@ h6 {
     /* font-size: 22px; */
     font-size: 2rem;
   }
+  .whatsapp_float {
+    bottom: 32px;
+    right: 84px;
+  }
 }
 
 
